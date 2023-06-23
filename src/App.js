@@ -36,7 +36,7 @@ function App() {
 
       <Routes>
 
-        <Route path='samjin-shop' element={
+        <Route path='/samjin-shop' element={
 
           <Container>
             <img src={process.env.PUBLIC_URL + './images/visual_main_01.jpg'} alt="vm" />
