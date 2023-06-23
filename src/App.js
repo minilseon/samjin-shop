@@ -36,7 +36,7 @@ function App() {
 
       <Routes>
 
-        <Route path='' element={
+        <Route path='./' element={
 
           <Container>
             <img src={process.env.PUBLIC_URL + '/images/visual_main_01.jpg'} alt="vm" />
